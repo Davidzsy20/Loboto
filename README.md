@@ -1,5 +1,5 @@
-# robofriends
-Tutorial for udemy course - React + Redux
+# ProjectManagment
+ React + Redux
 
 To run the project:
 
